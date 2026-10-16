@@ -1,0 +1,6 @@
+{
+  "name": "S-Guard Presence",
+  "description": "S-Guard Presence - Sistem Kehadiran Shift Kerja Satpam dengan Presensi, Perijinan, Sistem Lembur, Manajemen Petugas, dan Analisis AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
